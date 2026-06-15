@@ -183,15 +183,7 @@ server.port=8083
 
 ---
 
-## Database
-
-This project does not use a database.
-
-The application directly sends audio files to OpenAI Whisper API and returns the generated transcription result.
-
----
-
-## Future Enhancements
+# Future Enhancements
 
 * Store transcription history
 * User authentication and authorization
