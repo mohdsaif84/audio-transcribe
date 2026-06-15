@@ -192,6 +192,8 @@ server.port=8083
 * Cloud deployment
 * Audio transcription analytics dashboard
 
+<img width="1290" height="720" alt="Image" src="https://github.com/user-attachments/assets/c4c4dc39-2784-4469-9957-66ef5cd7f1c5" />
+
 ---
 
 ## Author
